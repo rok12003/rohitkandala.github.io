@@ -25,6 +25,7 @@ I'm currently a <a href='https://capp.uchicago.edu/'>Computer Science/Public Pol
 
 <h3>Projects I've worked on</h3>
 <ul>
+  <li><a href="https://github.com/hvpachisia/bdp-rideshare">Used the Chicago Data Portal to analyze how the UChicago Lyft RideSmart pass affected ridesharing in Hyde Park</a></li>
   <li><a href="https://github.com/uchicago-capp122-winter23/30122-project-the_watchdogs">Scraped news sources covering January 6th, categorized the data, and visualized the results</a></li>
   <li><a href="https://github.com/necabotheking/ml-affordable-care-act">Understanding Public Perceptions of The Affordable Care Act Using Yelp Data</a></li>
 </ul>
